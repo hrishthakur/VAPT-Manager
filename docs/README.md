@@ -1,3 +1,3 @@
 # VAPT-Manager
 
-AI based VAPT Project ManagementS
+AI based VAPT Project Management
