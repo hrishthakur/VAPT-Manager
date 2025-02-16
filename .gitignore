@@ -1,4 +1,4 @@
-.env/
-setup.sh/
+.env
+setup.sh
 /data/
 /myenv/
